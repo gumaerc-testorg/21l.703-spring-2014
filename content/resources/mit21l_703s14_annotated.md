@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21l-703-studies-in-drama-stoppard-and-company-spring-2014/d6cc092b771c79bfa5ad73c24114b013_MIT21L_703S14_Annotated.pdf
+file: /media/courses/21l-703-studies-in-drama-stoppard-and-company-spring-2014/d6cc092b771c79bfa5ad73c24114b013_MIT21L_703S14_Annotated.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: '21L.703 Spring 2014 Assignments: Annotated Bibliography and Preparation for
   your Final Essay: Guidelines'

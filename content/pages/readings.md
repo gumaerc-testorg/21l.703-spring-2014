@@ -1,5 +1,8 @@
 ---
 content_type: page
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 92670cff-a6b6-3d94-ca81-760750732acd
 ---
@@ -37,7 +40,7 @@ Additional plays, films and readings will serve as the basis for student reports
 *   Housman, Alfred Edward. _A Shropshire Lad_. Dover Publications, 1990. ISBN: 9780486264684. \[Preview with [Google Books](http://books.google.com/books?id=kysZc_TqQ1MC&pg=PAfrontcover)\]
 *   Churchill, Caryl. _Cloud Nine_. Samuel French, Inc., 1979. ISBN: 9780573618741.
 *   Frayn, Michael. _Copenhagen_. Methuen Books, 1998. ISBN: 9780413724908.
-*   [_The History Boys_](http://www.imdb.com/title/tt0464049/?ref_=fn_al_tt_1). Directed by Nicholas Hytner. Color, 20th Century Fox, 2006.
+*   [_The History Boys_](http://www.imdb.com/title/tt0464049/?ref_=fn_al_tt_1). Directed by Nicholas Hytner. Color, 20{{< sup "th" >}} Century Fox, 2006.
 *   [_Top Girls_](http://www.imdb.com/title/tt1059236/?ref_=nm_flmg_dr_1). Directed by Max Stafford-Clark. Color, 115 min. BBC, 1991.
 *   [_Shakespeare in Love_](http://www.imdb.com/title/tt0138097/). Directed by John Madden. Color, 123 min. Miramax Films, 1998.
 *   [Peter Cook's Mining Skit (PDF)]({{< baseurl >}}/resources/mit21l_703s14_peter_cook)

@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: b23a3ea3-c465-c18d-8f81-e31794c57592
 ---
@@ -33,20 +35,6 @@ CI-M ![](/images/educator/icon-question-cim.png)
 ### Offered
 
 Every other spring semester
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![This photo shows the classroom for this course, which has seating for 22 in three rows of tables and movable chairs.]({{< resource_file 5f885900-1967-2f83-f8b0-a69e62ddc49d >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    This classroom had three rows of long tables with moveable chairs that accommodated 22 students.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

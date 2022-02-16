@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/21l-703-studies-in-drama-stoppard-and-company-spring-2014/8b318730588f9696c246d0df2a5859dd_MIT21L_703S14_R_G_dis_ques.pdf
+file: /media/courses/21l-703-studies-in-drama-stoppard-and-company-spring-2014/8b318730588f9696c246d0df2a5859dd_MIT21L_703S14_R_G_dis_ques.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: '21L.703 Spring 2014 Assignments: Discussion questions for Rosencrantz and
   Guildenstern Are Dead'
