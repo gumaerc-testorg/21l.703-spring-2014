@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9478cc71-242e-57a1-0e8a-fbcd57f6b288
 resourcetype: Document
 title: '21L.703 Spring 2014 Assignments: Arcadia discussion questions'
 uid: 93842454-c0b7-da39-3300-0f01056a444e

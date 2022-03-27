@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9478cc71-242e-57a1-0e8a-fbcd57f6b288
 resourcetype: Document
 title: '21L.703 Spring 2014 Assignments: Rock ''n'' Roll discussion questions'
 uid: 19d27da1-0c13-d45e-ccba-678f1b6b75c2

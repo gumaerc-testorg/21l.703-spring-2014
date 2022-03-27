@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 92670cff-a6b6-3d94-ca81-760750732acd
 resourcetype: Document
 title: "21L.703 Spring 2014: Peter Cook\u2019s mining skit"
 uid: 0beef141-d677-228d-0a5e-bd9ba0b01209

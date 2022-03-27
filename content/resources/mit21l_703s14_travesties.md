@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9478cc71-242e-57a1-0e8a-fbcd57f6b288
 resourcetype: Document
 title: '21L.703 Spring 2014 Assignments: Travesties discussion questions'
 uid: a3316995-8e1b-5323-6b49-7d9c4b4944c6

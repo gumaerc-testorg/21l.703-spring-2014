@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9478cc71-242e-57a1-0e8a-fbcd57f6b288
 resourcetype: Document
 title: '21L.703 Spring 2014 Assignments: Hapgood discussion questions'
 uid: 09703409-1588-34ba-a3bb-a6a3633dce07

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 9478cc71-242e-57a1-0e8a-fbcd57f6b288
 resourcetype: Document
 title: '21L.703 Spring 2014 Assignments: Shakespeare in Love discussion questions'
 uid: cfe45ffd-438f-857f-8bab-8d1d3d27bed8

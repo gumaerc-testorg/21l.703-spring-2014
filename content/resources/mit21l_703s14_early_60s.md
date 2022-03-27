@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 92670cff-a6b6-3d94-ca81-760750732acd
 resourcetype: Document
 title: '21L.703 Spring 2014: Early 60s British humor'
 uid: baeaf9e4-2f87-9d82-945f-86ef09e47eda
