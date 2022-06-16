@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains the assignments for the course, including sample
+  student work.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -18,21 +20,21 @@ Seminars rely on lively interchange; therefore attendance and full participation
 
 Please note that this sample handout is from an earlier version of the course.
 
-*   [Sample student handout to accompany an oral presentation (PDF)]({{< baseurl >}}/resources/mit21l_703s14_rng_roe) (Courtesy of David Roe. Used with permission.)
+*   {{% resource_link 10e556f1-755e-30df-28fc-7aeb556ff301 "Sample student handout to accompany an oral presentation (PDF)" %}} (Courtesy of David Roe. Used with permission.)
 
 ### Sample Discussion Questions
 
 Please note that these sample questions are from an earlier version of the course with an altered reading list, and are included here as examples of outstanding student-generated work on the topic. 
 
-*   [Rosencrantz & Guildenstern Are Dead (Film Version) (PDF)]({{< baseurl >}}/resources/mit21l_703s14_r_g_film_disc)
-*   [Rosencrantz & Guildenstern Are Dead (Reading) (PDF)]({{< baseurl >}}/resources/mit21l_703s14_r_g_dis_ques)
-*   [Travesties (PDF)]({{< baseurl >}}/resources/mit21l_703s14_travesties) (Courtesy of anonymous MIT student. Used with permission.)
-*   [Serious Money (PDF)]({{< baseurl >}}/resources/mit21l_703s14_serious_mon) (Courtesy of Devorah Kengmana. Used with permission.)
-*   [Hapgood (PDF)]({{< baseurl >}}/resources/mit21l_703s14_hapgood) (Courtesy of anonymous MIT student. Used with permission.)
-*   [Arcadia (PDF)]({{< baseurl >}}/resources/mit21l_703s14_arcadia) (Courtesy of David Rolnick. Used with permission.)
-*   [Rock 'n' Roll (PDF)]({{< baseurl >}}/resources/mit21l_703s14_rock_n_roll) (Courtesy of Manushaqe Muco. Used with permission.)
-*   [Shakespeare in Love (PDF)]({{< baseurl >}}/resources/mit21l_703s14_shakes_love) (Courtesy of anonymous MIT student. Used with permission.)
-*   [Twilight (PDF)]({{< baseurl >}}/resources/mit21l_703s14_twilight) (Courtesy of anonymous MIT student. Used with permission.)
+*   {{% resource_link 5b9224ea-f9af-e8d1-9f22-9989a1e42f6e "Rosencrantz & Guildenstern Are Dead (Film Version) (PDF)" %}}
+*   {{% resource_link 8b318730-588f-9696-c246-d0df2a5859dd "Rosencrantz & Guildenstern Are Dead (Reading) (PDF)" %}}
+*   {{% resource_link a3316995-8e1b-5323-6b49-7d9c4b4944c6 "Travesties (PDF)" %}} (Courtesy of anonymous MIT student. Used with permission.)
+*   {{% resource_link 32b62d4b-9e18-992b-af41-c069ba255718 "Serious Money (PDF)" %}} (Courtesy of Devorah Kengmana. Used with permission.)
+*   {{% resource_link 09703409-1588-34ba-a3bb-a6a3633dce07 "Hapgood (PDF)" %}} (Courtesy of anonymous MIT student. Used with permission.)
+*   {{% resource_link 93842454-c0b7-da39-3300-0f01056a444e "Arcadia (PDF)" %}} (Courtesy of David Rolnick. Used with permission.)
+*   {{% resource_link 19d27da1-0c13-d45e-ccba-678f1b6b75c2 "Rock 'n' Roll (PDF)" %}} (Courtesy of Manushaqe Muco. Used with permission.)
+*   {{% resource_link cfe45ffd-438f-857f-8bab-8d1d3d27bed8 "Shakespeare in Love (PDF)" %}} (Courtesy of anonymous MIT student. Used with permission.)
+*   {{% resource_link 6783bed4-fc08-6c75-604f-031b62d98683 "Twilight (PDF)" %}} (Courtesy of anonymous MIT student. Used with permission.)
 
 Written Assignments
 -------------------
@@ -42,5 +44,5 @@ A variety of written assignments will allow you to respond to our topic in diffe
 Guidelines for Written Assignments
 ----------------------------------
 
-*   [Stylesheet (PDF)]({{< baseurl >}}/resources/mit21l_703s14_stylesheet)
-*   [Annotated Bibliography and Preparation for your Final Essay: Guidelines (PDF)]({{< baseurl >}}/resources/mit21l_703s14_annotated)
+*   {{% resource_link 9c127b9c-6862-38bb-1b0e-814aabdb78ac "Stylesheet (PDF)" %}}
+*   {{% resource_link d6cc092b-771c-79bf-a5ad-73c24114b013 "Annotated Bibliography and Preparation for your Final Essay: Guidelines (PDF)" %}}

@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/21l-703-studies-in-drama-stoppard-and-company-spring-2014/905936c701971f9c3b7255b1605b2d60_21L-703_stat-students.png
+file: /courses/21l-703-studies-in-drama-stoppard-and-company-spring-2014/905936c701971f9c3b7255b1605b2d60_21L-703_stat-students.png
 file_type: image/png
 image_metadata:
   caption: ''
