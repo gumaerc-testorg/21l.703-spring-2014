@@ -6,6 +6,7 @@ file: /courses/21l-703-studies-in-drama-stoppard-and-company-spring-2014/6783bed
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '21L.703 Spring 2014 Assignments: Twilight discussion questions'
 uid: 6783bed4-fc08-6c75-604f-031b62d98683
 ---
 This resource contains the information regarding Twilight discussion questions.
-

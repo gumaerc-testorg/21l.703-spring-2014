@@ -6,6 +6,7 @@ file: /courses/21l-703-studies-in-drama-stoppard-and-company-spring-2014/a331699
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '21L.703 Spring 2014 Assignments: Travesties discussion questions'
 uid: a3316995-8e1b-5323-6b49-7d9c4b4944c6
 ---
 This resource contains the information regarding Travesties discussion questions.
-

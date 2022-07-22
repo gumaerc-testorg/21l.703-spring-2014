@@ -6,6 +6,7 @@ file: /courses/21l-703-studies-in-drama-stoppard-and-company-spring-2014/cfe45ff
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '21L.703 Spring 2014 Assignments: Shakespeare in Love discussion question
 uid: cfe45ffd-438f-857f-8bab-8d1d3d27bed8
 ---
 This resource contains the information regarding Shakespeare in Love discussion questions.
-

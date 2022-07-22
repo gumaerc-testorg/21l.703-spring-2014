@@ -5,6 +5,7 @@ file: /courses/21l-703-studies-in-drama-stoppard-and-company-spring-2014/9384245
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: '21L.703 Spring 2014 Assignments: Arcadia discussion questions'
 uid: 93842454-c0b7-da39-3300-0f01056a444e
 ---
 This resource contains the information regarding Arcadia discussion questions.
-

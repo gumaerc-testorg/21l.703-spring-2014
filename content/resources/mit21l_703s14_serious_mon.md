@@ -6,6 +6,7 @@ file: /courses/21l-703-studies-in-drama-stoppard-and-company-spring-2014/32b62d4
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: '21L.703 Spring 2014 Assignments: Serious Money discussion questions'
 uid: 32b62d4b-9e18-992b-af41-c069ba255718
 ---
 This resource contains the information regarding Serious Money discussion questions.
-
