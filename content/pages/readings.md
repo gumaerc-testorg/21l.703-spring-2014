@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides citations and links to readings and viewings for
+  the class.
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 92670cff-a6b6-3d94-ca81-760750732acd
 ---
@@ -37,11 +42,11 @@ Additional plays, films and readings will serve as the basis for student reports
 *   Housman, Alfred Edward. _A Shropshire Lad_. Dover Publications, 1990. ISBN: 9780486264684. \[Preview with [Google Books](http://books.google.com/books?id=kysZc_TqQ1MC&pg=PAfrontcover)\]
 *   Churchill, Caryl. _Cloud Nine_. Samuel French, Inc., 1979. ISBN: 9780573618741.
 *   Frayn, Michael. _Copenhagen_. Methuen Books, 1998. ISBN: 9780413724908.
-*   [_The History Boys_](http://www.imdb.com/title/tt0464049/?ref_=fn_al_tt_1). Directed by Nicholas Hytner. Color, 20th Century Fox, 2006.
+*   [_The History Boys_](http://www.imdb.com/title/tt0464049/?ref_=fn_al_tt_1). Directed by Nicholas Hytner. Color, 20{{< sup "th" >}} Century Fox, 2006.
 *   [_Top Girls_](http://www.imdb.com/title/tt1059236/?ref_=nm_flmg_dr_1). Directed by Max Stafford-Clark. Color, 115 min. BBC, 1991.
 *   [_Shakespeare in Love_](http://www.imdb.com/title/tt0138097/). Directed by John Madden. Color, 123 min. Miramax Films, 1998.
-*   [Peter Cook's Mining Skit (PDF)]({{< baseurl >}}/resources/mit21l_703s14_peter_cook)
-*   ["Beyond the Fringe" and "First and Second Laws of Thermodynamics." (PDF)]({{< baseurl >}}/resources/mit21l_703s14_early_60s)
+*   {{% resource_link 0beef141-d677-228d-0a5e-bd9ba0b01209 "Peter Cook's Mining Skit (PDF)" %}}
+*   {{% resource_link baeaf9e4-2f87-9d82-945f-86ef09e47eda "\"Beyond the Fringe\" and \"First and Second Laws of Thermodynamics.\" (PDF)" %}}
 *   Farndale, Nigel. "[Sir Tom Stoppard Interview](http://www.telegraph.co.uk/culture/theatre/7019256/Sir-Tom-Stoppard-interview.html)," _The Telegraph_, January 19, 2010.
 *   Dunlap, David W. "[A Memorial Inscription's Grim Origins](http://www.nytimes.com/2014/04/03/nyregion/an-inscription-taken-out-of-poetic-context-and-placed-on-a-9-11-memorial.html?_r=1)," _New York Times_, April 2, 2014.
 *   & more!
