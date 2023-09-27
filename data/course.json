@@ -44,8 +44,10 @@
     "website": "21l-703-studies-in-drama-stoppard-and-company-spring-2014"
   },
   "learning_resource_types": [
-    "Written Assignments"
+    "Written Assignments",
+    "Instructor Insights"
   ],
-  "site_uid": "392bc17c-0f49-4eee-876d-db4d1dc44f5e",
+  "site_uid": "c593b53d-7085-4760-975e-153e4829afe1",
+  "site_short_id": "21l.703-spring-2014",
   "title": "Course Metadata"
 }
