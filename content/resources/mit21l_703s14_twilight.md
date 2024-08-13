@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains the information regarding Twilight discussion
   questions.
 file: /courses/21l-703-studies-in-drama-stoppard-and-company-spring-2014/6783bed4fc086c75604f031b62d98683_MIT21L_703S14_Twilight.pdf
+file_size: 439682
 file_type: application/pdf
 learning_resource_types:
 - Assignments

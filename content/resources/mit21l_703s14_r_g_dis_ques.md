@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/21l-703-studies-in-drama-stoppard-and-company-spring-2014/8b318730588f9696c246d0df2a5859dd_MIT21L_703S14_R_G_dis_ques.pdf
+file_size: 205639
 file_type: application/pdf
 learning_resource_types:
 - Assignments
