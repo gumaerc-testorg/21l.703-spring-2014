@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21l-703-studies-in-drama-stoppard-and-company-spring-2014/9c127b9c686238bb1b0e814aabdb78ac_MIT21L_703S14_stylesheet.pdf
+file: /ol-ocw-studio-app/courses/21l-703-studies-in-drama-stoppard-and-company-spring-2014/9c127b9c686238bb1b0e814aabdb78ac_MIT21L_703S14_stylesheet.pdf
 file_size: 218653
 file_type: application/pdf
 learning_resource_types:
