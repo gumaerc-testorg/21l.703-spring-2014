@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21l-703-studies-in-drama-stoppard-and-company-spring-2014/5f88590019672f83f8b0a69e62ddc49d_21L-703_classroom-1.jpg
+file: /ol-ocw-studio-app/courses/21l-703-studies-in-drama-stoppard-and-company-spring-2014/5f88590019672f83f8b0a69e62ddc49d_21L-703_classroom-1.jpg
 file_size: 38794
 file_type: image/jpeg
 image_metadata:
