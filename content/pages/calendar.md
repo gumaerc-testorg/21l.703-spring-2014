@@ -32,7 +32,7 @@ Introductions; British comedy and you
 {{< tdclose >}}{{< tdopen >}}
 *Rosencrantz & Guildenstern Are Dead*, across media.
 {{< tdclose >}}{{< tdopen >}}
-Preliminary self-assessment due; *Waiting for Godot* report due; attend [MIT DramaShop's](http://theaterarts.mit.edu/) production of *Arcadia*.
+Preliminary self-assessment due; *Waiting for Godot* report due; attend [MIT DramaShop's](http://theater.mit.edu/dramashop.php) production of *Arcadia*.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
 {{< tdclose >}}{{< tdopen >}}
