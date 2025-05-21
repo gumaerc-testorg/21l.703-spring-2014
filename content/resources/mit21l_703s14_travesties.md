@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding Travesties discussion
   questions.
-file: /ol-ocw-studio-app/courses/21l-703-studies-in-drama-stoppard-and-company-spring-2014/a33169958e1b53236b497d9c4b4944c6_MIT21L_703S14_Travesties.pdf
+file: /courses/21l-703-studies-in-drama-stoppard-and-company-spring-2014/a33169958e1b53236b497d9c4b4944c6_MIT21L_703S14_Travesties.pdf
 file_size: 321362
 file_type: application/pdf
 learning_resource_types:
