@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding Serious Money discussion
   questions.
-file: /ol-ocw-studio-app/courses/21l-703-studies-in-drama-stoppard-and-company-spring-2014/32b62d4b9e18992baf41c069ba255718_MIT21L_703S14_Serious_Mon.pdf
+file: /courses/21l-703-studies-in-drama-stoppard-and-company-spring-2014/32b62d4b9e18992baf41c069ba255718_MIT21L_703S14_Serious_Mon.pdf
 file_size: 211555
 file_type: application/pdf
 learning_resource_types:
