@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/21l-703-studies-in-drama-stoppard-and-company-spring-2014/0beef141d677228d0a5ebd9ba0b01209_MIT21L_703S14_Peter_Cook.pdf
+file: /ol-ocw-studio-app/courses/21l-703-studies-in-drama-stoppard-and-company-spring-2014/0beef141d677228d0a5ebd9ba0b01209_MIT21L_703S14_Peter_Cook.pdf
 file_size: 41734
 file_type: application/pdf
 learning_resource_types:
