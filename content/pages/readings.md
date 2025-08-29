@@ -21,7 +21,7 @@ uid: 92670cff-a6b6-3d94-ca81-760750732acd
 - ———. *A Number*. Theatre Communications Group, 2003. ISBN: 9781559362252.
 - ———. *Top Girls*. Methuen Pub Ltd, 1985.
 - Smith, Anna Deavere. *Twilight: Los Angeles, 1992*. Dramatists Play Service, Inc., 2002. ISBN: 9780822218418. \[Preview with [Google Books](http://books.google.com/books?id=95BPyQ-UnaEC&pg=PAfrontcover)\]
-- Barker, Howard. *Scenes from an Execution*. Oberon Books, 2013. ISBN: 9781849434683. \[Preview with [Google Books](http://books.google.com/books?id=XnVBeUhev9EC&pg=PAfrontcover)\]
+- Barker, Howard. *Scenes from an Execution*. Oberon Books, 2013. ISBN: 9781849434683. \[Preview with [Google Books](https://www.google.com/books/edition/Scenes_from_an_Execution/14kHEAAAQBAJ?hl=en&gbpv=1&dq=Barker,+Howard.+Scenes+from+an+Execution.+Oberon+Books,+2013.+ISBN:+9781849434683&printsec=frontcover)\]
 - Kohout, Pavel. *Poor Murderer: A Play in Two Acts*. Samuel French, 1977. ISBN: 9780573614422.
 
 ## Additional Readings / Viewings
