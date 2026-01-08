@@ -114,16 +114,16 @@ Re-read slowly and analytically, looking for meanings, patterns, poetry, charact
 Literature Faculty Policy on Plagiarism
 ---------------------------------------
 
-Plagiarism—the use of another's intellectual work without acknowledgement—is a serious offense. It is the policy of the Literature Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted and in all oral presentations, including images or texts in other media and for materials collected online. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution, consult the style guides available in the {{% resource_link "699c5706-b934-4b7c-97e6-c237e24c9097" "Writing and Communication Center" %}}, review the article on {{% resource_link "a287f62c-d5df-45c8-a419-dc0b5dad633d" "avoiding plagiarism" %}}, and review {{% resource_link "f8f46282-ce1f-4d7a-97a1-1375d60b1751" "MIT's online Academic Integrity Handbook" %}}.
+Plagiarism—the use of another's intellectual work without acknowledgement—is a serious offense. It is the policy of the Literature Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted and in all oral presentations, including images or texts in other media and for materials collected online. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution, consult the style guides available in the [Writing and Communication Center](http://cmsw.mit.edu/writing-and-communication-center/resources/), review the article on [avoiding plagiarism](http://cmsw.mit.edu/writing-and-communication-center/avoiding-plagiarism/), and review [MIT's online Academic Integrity Handbook](http://integrity.mit.edu/).
 
 Other Resources and Requests
 ----------------------------
 
 I will also provide my own stylesheet. In addition, you might find helpful:
 
-*   {{% resource_link "9060cd1a-c6e9-4990-8a88-4aea293fbdd5" "MIT Library webpage for the course" %}}, designed by Mark Szarko.
-*   Proctor, Margaret. "{{% resource_link "45518ff0-a783-4fa8-b969-f8da19aabdea" "Standard Documentation Formats." %}}" University of Toronto Writing Support. 
-*   Harris, Robert. "{{% resource_link "f610bd98-0c8e-4266-9215-c87bd15a070d" "Evaluating Internet Research Sources." %}}" 
+*   [MIT Library webpage for the course](http://libguides.mit.edu/stoppard), designed by Mark Szarko.
+*   Proctor, Margaret. "[Standard Documentation Formats.](http://www.writing.utoronto.ca/advice/using-sources/documentation)" University of Toronto Writing Support. 
+*   Harris, Robert. "[Evaluating Internet Research Sources.](http://www.virtualsalt.com/evalu8it.htm)" 
 
 Another important point: You cannot participate well if you are asleep, nearly asleep, or woozy with illness or exhaustion. Please take care of yourself—which obviously includes your body as well as your mind.
 
