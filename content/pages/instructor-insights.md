@@ -80,4 +80,4 @@ During an average week, students were expected to spend 12 hours on the course, 
 - Completed readings, watched films.
 - Prepared seminar questions and discussions based on the readings and films.
 - Completed self-assessments, essays, Stoppardian scenes, and reports.
-- Attended {{% resource_link "960a40fb-b854-4599-9aa8-a4fa3cc911bd" "MIT DramaShop" %}}’s production of _Arcadia_.
+- Attended [MIT DramaShop](http://theater.mit.edu/dramashop.php)’s production of _Arcadia_.
